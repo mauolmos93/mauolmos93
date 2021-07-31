@@ -1,5 +1,5 @@
-###  :wave: Hola soy Mauricio Olmos
-#### :computer: Javascript Developer :computer:
+## :wave: Hola soy Mauricio Olmos
+### :computer: Javascript Developer :computer:
 
 Comencé a estudiar programación de manera autodidacta, ya que me gusto poder usar **nuestra creatividad e ingenio
 para lograr resolver problemas y automatizar tareas**. Con el fin de iniciar una carrera como desarrollador, 
