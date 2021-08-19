@@ -8,7 +8,7 @@ mas de **700 hs de práctica en tecnologias como JavaScript, React.Js , Node.Js.
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mauricio-olmos-5bb633128/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mauricioolmos-yellow?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mauricio-olmos/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mauricioolmos-yellow?style=flat&logo=linkedin"></a>
 <a href="mailto:mauricioolmos1993@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mauricioolmos1993@gmail.com-yellow?style=flat&logo=gmail"></a>
 </p>
 
